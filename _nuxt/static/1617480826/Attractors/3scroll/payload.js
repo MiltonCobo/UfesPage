@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/Attractors/3scroll", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/Attractors/chenlee", {data:[{}],fetch:[],mutations:void 0});
